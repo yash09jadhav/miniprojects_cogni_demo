@@ -1,0 +1,7 @@
+Name: Vikram Sharma
+Email: vikramsharma@example.com
+Skills: Python, Django, PostgreSQL, REST APIs, Git
+Experience:
+- 1.5 years as Backend Developer at Webify
+- Developed Django apps with PostgreSQL and integrated REST services
+Education: B.E. in Computer Engineering

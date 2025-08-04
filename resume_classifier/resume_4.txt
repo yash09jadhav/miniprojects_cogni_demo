@@ -1,0 +1,7 @@
+Name: Aarti Patil
+Email: aarti.patil@example.com
+Skills: HTML, CSS, JavaScript, React, Node.js
+Experience:
+- 2 years as Frontend Developer at PixelEdge
+- Created dynamic UI components and collaborated with backend teams
+Education: B.Sc. in Computer Science

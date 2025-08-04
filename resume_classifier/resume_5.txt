@@ -1,0 +1,7 @@
+Name: Rohan Kulkarni
+Email: rohank@example.com
+Skills: Python, Flask, Git, Azure, CI/CD, Docker
+Experience:
+- 2.5 years as Python Engineer at DevOps Hub
+- Built Flask-based microservices and automated deployments using Azure DevOps pipelines
+Education: B.Tech in Software Engineering

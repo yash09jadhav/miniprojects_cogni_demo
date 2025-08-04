@@ -1,0 +1,7 @@
+Name: Raj Mehta
+Email: rajmehta@example.com
+Skills: Python, Flask, MySQL, REST APIs, Git, Docker
+Experience:
+- 2 years as Python Developer at SoftTech Solutions
+- Built RESTful APIs using Flask and connected them to MySQL databases
+Education: B.E. in Computer Science

@@ -1,0 +1,7 @@
+Name: Shruti Desai
+Email: shrutid@example.com
+Skills: Java, Spring Boot, PostgreSQL, AWS, Kubernetes
+Experience:
+- 3 years as Java Developer at CloudNet Inc.
+- Hands-on with AWS services and containerized deployments using Kubernetes
+Education: B.Tech in Information Technology

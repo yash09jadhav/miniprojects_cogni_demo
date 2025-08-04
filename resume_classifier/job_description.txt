@@ -1,0 +1,28 @@
+Job Title: Python Developer
+
+We are looking for a Python Developer to join our software engineering team.
+
+Key Responsibilities:
+- Write reusable, testable, and efficient Python code
+- Integrate user-facing elements with server-side logic
+- Work with REST APIs and database models
+- Collaborate with frontend and DevOps teams
+
+Required Skills:
+- Strong proficiency in Python 3
+- Experience with Flask or Django frameworks
+- Familiarity with relational databases like MySQL or PostgreSQL
+- Knowledge of Git and version control
+- Understanding of RESTful services and API integration
+- Good problem-solving skills
+
+Preferred:
+- Exposure to cloud platforms like AWS or Azure
+- Experience with Docker or Kubernetes
+- Knowledge of CI/CD pipelines
+
+Experience:
+- 1–3 years of professional software development
+
+Education:
+- Bachelor’s degree in Computer Science or a related field
